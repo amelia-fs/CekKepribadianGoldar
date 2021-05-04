@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityAdd"
+    android:orientation="vertical"
+    android:gravity="center_vertical">
+    <EditText
+        android:id="@+id/et_add_name"
+        style="@style/edit_form"
+        android:hint="Nama Lengkap !"
+        android:drawableLeft="@drawable/ic_baseline_person_24"/>
+
+    <EditText
+        android:id="@+id/et_add_jk"
+        style="@style/edit_form"
+        android:hint="Jenis Kelamin !"
+        android:drawableLeft="@drawable/ic_baseline_accessibility_24"/>/>
+
+    <EditText
+        android:id="@+id/et_add_alamat"
+        style="@style/edit_form"
+        android:hint="Alamat !"
+        android:drawableLeft="@drawable/ic_baseline_location_on_24"/>
+
+    <EditText
+        android:id="@+id/et_add_goldar"
+        style="@style/edit_form"
+        android:hint="Golongan Darah !"
+        android:drawableLeft="@drawable/ic_baseline_add_24"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <Button
+            android:id="@+id/btn_add_submit"
+            android:text="Submit"
+            style="@style/btnlogin" />
+        <Button
+            android:id="@+id/btn_add_cancel"
+            android:text="Cancel"
+            style="@style/btnlogin"/>
+    </LinearLayout>
+</LinearLayout>

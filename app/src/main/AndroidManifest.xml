@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ac.id.pei.rpl.cekgoldar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CekGoldar">
+        <activity android:name=".DataDonation"></activity>
+        <activity android:name=".ActivityAdd" />
+        <activity android:name=".DataDiseaseAB" />
+        <activity android:name=".DataDiseaseO" />
+        <activity android:name=".DataDiseaseB" />
+        <activity android:name=".DataDiseaseA" />
+        <activity android:name=".HalUtama5" />
+        <activity android:name=".DataFoodAB" />
+        <activity android:name=".DataFoodB" />
+        <activity android:name=".DataFoodA" />
+        <activity android:name=".DataFoodO" />
+        <activity android:name=".HalUtama4" />
+        <activity android:name=".DataRomanceAB" />
+        <activity android:name=".DataRomanceO" />
+        <activity android:name=".DataRomanceB" />
+        <activity android:name=".DataRomanceA" />
+        <activity android:name=".HalUtama3" />
+        <activity android:name=".DataKarirAB" />
+        <activity android:name=".DataKarirO" />
+        <activity android:name=".DataKarirB" />
+        <activity android:name=".DataKarirA" />
+        <activity android:name=".HalUtama2" />
+        <activity android:name=".DataWorstAB" />
+        <activity android:name=".DataWorstO" />
+        <activity android:name=".DataWorstB" />
+        <activity android:name=".DataWorstA" />
+        <activity android:name=".HalUtama1" />
+        <activity android:name=".DataBestAB" />
+        <activity android:name=".DataBestB" />
+        <activity android:name=".DataBestA" />
+        <activity android:name=".DataBestO" />
+        <activity android:name=".HalUtama" />
+        <activity android:name=".ActivitySplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

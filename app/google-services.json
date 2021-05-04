@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "55769979896",
+    "firebase_url": "https://kepribadian-73722-default-rtdb.firebaseio.com",
+    "project_id": "kepribadian-73722",
+    "storage_bucket": "kepribadian-73722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55769979896:android:b827891a544b894acdd40d",
+        "android_client_info": {
+          "package_name": "ac.id.pei.rpl.cekgoldar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55769979896-10mr4ghlm9roqfvt945orad5mcacnjhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiX33Y5kQ6Wqs8REg1icpmiHWrOlvLMzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55769979896-10mr4ghlm9roqfvt945orad5mcacnjhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55769979896:android:cb1758a12b2ef36ecdd40d",
+        "android_client_info": {
+          "package_name": "com.example.kepribadiangoldar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55769979896-10mr4ghlm9roqfvt945orad5mcacnjhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiX33Y5kQ6Wqs8REg1icpmiHWrOlvLMzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55769979896-10mr4ghlm9roqfvt945orad5mcacnjhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
